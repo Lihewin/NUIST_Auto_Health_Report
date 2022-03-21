@@ -3,6 +3,7 @@
 
 ### 2022/3/18
 由于学校升级系统，本自动化已废弃。
+Use this instead:https://github.com/InfinityWei/NUIST_HealthyReport_NEW
 
 ### 8月9日升级
 本自动化升级后无需抓包等繁琐操作，在Account.txt中输入学校账户密码即可！
